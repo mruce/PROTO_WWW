@@ -21,28 +21,33 @@ canonical: https://fullit.github.io
 
 </div>
 </div>-->
+
+{% comment %}
 <div id="socialMenu">
 	{% include social-block.html %}
 </div>
+{% endcomment %}
 
 <div id="fullpage">
 	<div data-anchor="0section" class="section" id="section0">
-	{% youtube WhJKKNXxBf0 600 rel:0 modestbranding:1 autoplay:1 controls=0 rel=0 showinfo=0 %}
-		<h1 class="heavy">Ready to follow <br />your <span class="pink">dreams?</span></h1>
-		<br /><h2 class="large-blur">
-			<span class="highlight-container"><span class="highlight">
-				Put your dreams on first and follow that!
-			</span></span>
-			<br />
-		</h2>
+	
+		<h1 class="heavy"><br />PROTOMAP<br />
+		<br />
+		
+		<span class="pink">Reinvetning<br/>Projection Mapping</span></h1>
 
-		<br /><h3 class="large-blur">
+{% comment %}		
+{% include youtubePlayer.html id="WhJKKNXxBf0" %}
+{% endcomment %}
+		<br />
+		<br /><br /><br />
+		<h3 class="large-blur">
 			<span class="highlight-container"><span class="highlight">
-				Be the firt to know more about <a href="{{ BASE_PATH }}/lessons/2017/01/17/testing-locally">Jekyll FullIt theme!</a>
+				Auto-Calibration Projection Mapping Solution
 			</span></span>
 			<br />
 		</h3>
-
+		
 			<div class="intro-scroll-down">
 			  <a data-menuanchor="1section" href="#1section">
 			    <span class="mouse">
@@ -56,12 +61,14 @@ canonical: https://fullit.github.io
 	</div>
 
 	<div data-anchor="1section" class="section" id="section1">
-			<h1 class="heavy">Start-up it <br />whit a <span class="pink">Rocket!</span></h1>
+			<!--<h1 class="heavy">Start-up it <br />whit a <span class="pink">Rocket!</span></h1>
 			<br /><h2 class="large-blur">
 				<span class="highlight-container"><span class="highlight">
 					Don't be afraid and start your jurney.
 				</span></span>
 			</h2>
+			-->
+			{% include youtubePlayer.html id="WhJKKNXxBf0" %}
 			<br /><h3 class="large-blur">
 				<span class="highlight-container"><span class="highlight">
 					Check out a <a href="{{ BASE_PATH }}/landing">bootstrap landing page sample</a> to sell your products in Jekyll FullIt theme!
