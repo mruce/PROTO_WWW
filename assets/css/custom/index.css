@@ -3,7 +3,7 @@
   /* Defining each sectino background and styles
   * --------------------------------------- */
   #section0{
-    background-image: url(/assets/img/PROTO/cropped.jpg);
+    background-image: url(/assets/img/PROTO/corner.jpg);
     padding: 6% 0 0 0;
   }
 
@@ -36,7 +36,7 @@
       /* Defining each section background and styles on portrait orientation
       * --------------------------------------- */
       #section0{
-        background-image: url(/assets/img/tablet/universe1.jpg);
+        background-image: url(/assets/img/PROTO/tablet/corner.jpg);
         padding: 6% 0 0 0;
       }
 
