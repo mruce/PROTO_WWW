@@ -49,6 +49,11 @@
   margin: 124px auto 37px;
 }
 
+.u-section-2 .u-accordion-item-1 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
 .u-section-2 .u-accordion-link-1 {
   background-image: none;
   font-weight: 700;
@@ -60,6 +65,7 @@
 .u-section-2 .u-icon-1 {
   height: 20px;
   width: 20px;
+  background-image: none;
 }
 
 .u-section-2 .u-accordion-pane-1 {
@@ -85,6 +91,11 @@
   padding: 0;
 }
 
+.u-section-2 .u-accordion-item-2 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
 .u-section-2 .u-accordion-link-2 {
   background-image: none;
   font-weight: 700;
@@ -96,10 +107,11 @@
 .u-section-2 .u-icon-2 {
   height: 20px;
   width: 20px;
+  background-image: none;
 }
 
 .u-section-2 .u-accordion-pane-2 {
-  min-height: 500px;
+  min-height: 237px;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -114,6 +126,11 @@
   margin: 20px 0 0;
 }
 
+.u-section-2 .u-accordion-item-3 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
 .u-section-2 .u-accordion-link-3 {
   background-image: none;
   font-weight: 700;
@@ -125,10 +142,11 @@
 .u-section-2 .u-icon-3 {
   height: 20px;
   width: 20px;
+  background-image: none;
 }
 
 .u-section-2 .u-accordion-pane-3 {
-  min-height: 472px;
+  min-height: 237px;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -136,7 +154,7 @@
 }
 
 .u-section-2 .u-text-6 {
-  margin: 20px 0 0;
+  margin: 0;
 }
 
 .u-section-2 .u-text-7 {
@@ -145,6 +163,11 @@
 
 .u-section-2 .u-text-8 {
   margin: 20px 0 0;
+}
+
+.u-section-2 .u-accordion-item-4 {
+  margin-top: 10px;
+  margin-bottom: 0;
 }
 
 .u-section-2 .u-accordion-link-4 {
@@ -158,6 +181,7 @@
 .u-section-2 .u-icon-4 {
   height: 20px;
   width: 20px;
+  background-image: none;
 }
 
 .u-section-2 .u-accordion-pane-4 {
@@ -183,6 +207,11 @@
   margin-right: auto;
 }
 
+.u-section-2 .u-accordion-item-5 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
 .u-section-2 .u-accordion-link-5 {
   background-image: none;
   font-weight: 700;
@@ -194,6 +223,7 @@
 .u-section-2 .u-icon-5 {
   height: 20px;
   width: 20px;
+  background-image: none;
 }
 
 .u-section-2 .u-accordion-pane-5 {
@@ -213,6 +243,11 @@
   margin-left: 0;
 }
 
+.u-section-2 .u-accordion-item-6 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
 .u-section-2 .u-accordion-link-6 {
   background-image: none;
   font-weight: 700;
@@ -224,6 +259,7 @@
 .u-section-2 .u-icon-6 {
   height: 20px;
   width: 20px;
+  background-image: none;
 }
 
 .u-section-2 .u-accordion-pane-6 {
@@ -296,6 +332,21 @@
 
   .u-section-2 .u-accordion-1 {
     width: 540px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   .u-section-2 .u-container-layout-4 {
