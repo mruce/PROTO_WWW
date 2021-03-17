@@ -1,0 +1,5 @@
+RewriteEngine On
+Rewritebase /
+
+RewriteCond %{HTTP_HOST} !.example.com$
+RewriteRule ^(.*)$ https://www.exempla.com/$1 [L,R=301]
